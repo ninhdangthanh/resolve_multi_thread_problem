@@ -11,3 +11,8 @@ và in ra thông báo (chia hết cho 4 hoặc không)
 
 Thực hiện đồng bộ 3 Thread (Yêu cầu: Thread 1 sinh xong => đợi cho 2 thread 2 và 3 thực hiện xong mới sinh tiếp,
 Thread 2, 3 đợi cho Thread 1 sinh số ngẫu nhiên mới thì được thực hiện yêu cầu)
+
+
+https://www.youtube.com/watch?v=o32LT1wCLgs&list=PLMPBVRu4TjAxXA5KuqKFU7gwGiucyif_r&index=16
+
+https://gokisoft.com/share-code-multithread-synchronized-trong-java-dong-bo-3-threads-sinh-so-ngau-nhien-binh-phuong-va-chia-het.html
