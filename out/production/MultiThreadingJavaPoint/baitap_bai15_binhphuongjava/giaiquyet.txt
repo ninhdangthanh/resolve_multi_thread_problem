@@ -1,0 +1,12 @@
+Xác định thread chạy đầu tiên
+dùng notifyAll và wait ở đầu các thread 2 và 3 để làm thread 1 chạy đầu tiên
+
+
+Sau đó xác định thread được chạy với biến index
+//index = 1, 2, 3
+//1 => Thread 1
+//2 => Thread 2
+//3 => Thread 3
+int index;
+........
+...
